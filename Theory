@@ -1,0 +1,54 @@
+Personalization and Recommendation
+Natural Language Processing
+Image and Video Processing
+Voice Recognization
+HealthCare and diagonisis
+security and fraud detection
+
+Role of AI in Spring Ecosystem:-
+Spring AI Integration- Can be integrated seamlessly
+Spring AI provides abstraction for APIs of LLM Models
+
+RAG - Retrieval Augmented Generation - generating data based on context. Let AI search data from present websites(create context based on present data)
+AI Powered Application
+Data processing
+
+Spring AI Capabilities:-
+1. Integration with AI Models .........2.RAG Implementation......3.Vector DD Implementation
+4. Declarative APIs are given..........5. Deployment Ready Application
+
+LLM:- has large data base- neural network
+read data and feed - remember the patterns
+
+Prompts:-
+    1. Instruction based Prompts
+    2. Completion Prompts
+    3. Zero Shot Prompts - no prior example
+    4. Few Shots Prompts - provide some examples
+    5. Role Based Prompts - AI Assumes a specific role
+    6. Conversational Prompts
+    7. Chain Of Thought Prompts - reasoning based - Thought Process
+    8. Creative Prompts - Imaginary Output- some story for example
+    9. Comparison Prompts - compare something
+    10. Debugging Prompts - fix error
+Best Practices in Prompt Engineering:-
+    -> Be clear and specific;avoid ambiguity
+    -> Iterative Refinement
+    -> Provide Context
+    -> Leverage few-shot examples
+    -> Encourage step-by-step Reasoning
+    -> Define Output Format: structure
+    
+LLM :- Out of date sometimes
+RAG Model - pass dedicated Data
+Source Of Trust is provided- Enhanced User Trust- Increased Developer Control - Cost Effective
+
+Vector Database:-
+A Vector Database is a special type of database designed to store and search data using vectors (which are just lists of numbers that represent things like images, text, or sounds).
+
+Instead of searching with keywords (like in traditional databases), a vector database finds similar items based on mathematical comparisons. This is useful for things like:
+
+Image search (Find similar pictures)
+Recommendation systems (Suggest movies based on what you watched)
+Chatbots & AI (Understand and respond better)
+It’s super fast and great for handling complex data like AI models! 

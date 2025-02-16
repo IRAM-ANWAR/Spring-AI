@@ -1,0 +1,1 @@
+List the details of the famous personality {name} along with their Carrier achievements.Show the details in proper format removing special characters not required.
